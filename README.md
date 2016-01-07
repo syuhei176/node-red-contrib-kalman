@@ -5,6 +5,8 @@ node-red-contrib-kalman
 A Kalman filter node for <a href="http://nodered.org" target="_new">Node-RED</a>.
 
 
+![flow](https://raw.githubusercontent.com/syuhei176/node-red-contrib-kalman/master/img/flow.png "flow")
+
 
 License
 -------

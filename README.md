@@ -1,6 +1,8 @@
 node-red-contrib-kalman
+
 ========================
-An admin tab for <a href="http://nodered.org" target="_new">Node-RED</a>.
+
+A Kalman filter node for <a href="http://nodered.org" target="_new">Node-RED</a>.
 
 
 

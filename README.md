@@ -1,5 +1,4 @@
 node-red-contrib-kalman
-
 ========================
 
 A Kalman filter node for <a href="http://nodered.org" target="_new">Node-RED</a>.

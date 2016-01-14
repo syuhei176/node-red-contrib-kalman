@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-kalman",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "node": "4.2.x"
   },
@@ -9,6 +9,11 @@
   },
   "dependencies": {
     "kalmanjs": "^1.0.0-beta"
+  },
+  "node-red": {
+    "nodes": {
+      "kalman": "kalman/kalman.js"
+    }
   },
   "repository": {
     "type": "git",

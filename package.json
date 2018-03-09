@@ -2,7 +2,7 @@
   "name": "node-red-contrib-kalman",
   "version": "0.0.3",
   "engines": {
-    "node": "4.2.x"
+    "node": ">=4.2.x"
   },
   "scripts": {
     "start": "node app.js"
